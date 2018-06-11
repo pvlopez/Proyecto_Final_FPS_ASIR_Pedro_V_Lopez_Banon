@@ -1,6 +1,8 @@
 # Despliegue de arquitectura de nube OpenStack multinodo sobre CentOS. #
 
-## Sinopsis
+## Sinopsis - Abstract
+
+## Agradecimientos
 
 ### Índice            [CE-9]
 
@@ -13,13 +15,15 @@
 
 ## 1. Introducción ##  [CE-1]
 
-###   1.1. La nube ###
+###   1.1. Motivación ###
 
-###   1.2. Tipos de nube ###
+###   1.2. La nube ###
 
-###   1.3. Objetivo del proyecto ###
+###   1.3. Tipos de nube ###
 
-###   1.4. Porqué OpenStack ###
+###   1.4. Objetivo del proyecto ###
+
+###   1.5. Porqué OpenStack ###
 
 
 
