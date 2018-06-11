@@ -85,7 +85,7 @@
 
 ## 9. Presupuesto, recursos utilizados y costes ##
 
-## 10. Recapitulación y Epílogo ##
+## 10. Epílogo ##
 
 ## ANEXOS ##
 
