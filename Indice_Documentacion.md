@@ -51,11 +51,11 @@
 
 ###   3.2. Componentes básicos de OpenStack ###
 ####       3.2.1. Servicio de identidad (Keystone) ####
-####       3.2.2. Servicio de imagen (Glance) ####
-####       3.2.3. Servicio de cómputo (Nova) ####
-####       3.2.4. Servicio de almacenamiento de objetos (Swift) ####
-####       3.2.5. Servicio de almacenamiento en bloque (Cinder) ####
-####       3.2.6. Servicio de red (Neutron) ####
+####       3.2.2. Servicio de cómputo (Nova) ####
+####       3.2.3. Servicio de red (Neutron) ####
+####       3.2.4. Servicio de imagen (Glance) ####
+####       3.2.5. Servicio de almacenamiento de objetos (Swift) ####
+####       3.2.6. Servicio de almacenamiento en bloque (Cinder) ####
 ####       3.2.6. OpenStack Dashboard (Horizon) ####
 
 ###   3.3. Componentes adicionales de OpenStack ###
@@ -65,13 +65,10 @@
 ####       3.3.4. Servicio de procesamiento de datos (sahara) ####
 ####       3.3.5. Otros componentes ####
 
-###   3.4. OpenStack multinodo para entorno de producción ###
+###   3.4. OpenStack para entorno de producción ###
 ####       3.4.1. RDO ####
-####       3.4.2. Conjure-up ####
-####       3.4.3. Mirantis ####
-####       3.4.4. Triple-O ####
-####       3.4.5. Ansible ####
-####       3.4.6. Devstack ####
+####       3.4.2. Triple-O ####
+####       3.4.3. Otros ####
 
 ## 4. Notas Legales y Seguridad ##
 
@@ -86,7 +83,13 @@
 ## 9. Presupuesto, recursos utilizados y costes ##
 
 ## 10. Epílogo ##
+###    10.1. Conclusión ###
+###    10.2. Palabras finales ###
 
 ## ANEXOS ##
+
+### Archivo de configuración de OpenStack Packstack ###
+
+### Resumen de comandos CLI de Administración de OpenStack ###
 
 ## Referencias y bibliografía ##
