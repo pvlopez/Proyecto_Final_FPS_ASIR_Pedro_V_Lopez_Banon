@@ -1,0 +1,33 @@
+url Descripcion autor nombre_imagen
+
+https://www.flickr.com/photos/152210849@N08/40996653764/ : Rackspace Launches Rackspace Private Cloud Everywhere, a PCaaS, Powered by VMware : martin louis : rackspace_launches_private_cloud.jpg
+
+https://www.flickr.com/photos/laughingsquid/12684434285/ : PAC-MAN ghost table at Rackspace : Scott Beale : packman_table.jpg
+
+https://www.flickr.com/photos/francescgrau/3736302005/ : Nasa_09 : Francesc Grau : nasa_09.jpg
+
+https://www.flickr.com/photos/96624086@N08/8860511939/ : Found this incredible shot of Shuttle launch. : Joe Carrizales : launch_columbia.jpg
+
+https://www.flickr.com/photos/pebb/41797282985/ : Time Dilatione : Jamie Wynder : time_dilatione.jpg
+
+https://www.flickr.com/photos/yaffamedia/215073191/ : Time Stands Still : Yaffa Phillips : time_stands.jpg
+
+https://www.flickr.com/photos/idttelecom/10464124626/ : Fiber_Optic : IDT, Inc. : fiber_optic.jpg
+
+https://www.flickr.com/photos/157532545@N04/36792218405/ : computer microchip : prajwolkhanal77 : computer_microchip.jpg
+
+https://www.flickr.com/photos/hadoop_hk_china/8700272077/ : Hadoop : Hadoop HK : hadoop.png
+
+https://www.flickr.com/photos/142248809@N07/39193500724/ : 	Install OpenStack in Cent OS/ Red Hat : Shanto Roy : installopenstack.jpg
+
+https://www.flickr.com/photos/145503505@N03/30317276791/ : openstack-training-in-pune : sunny kumar24 : openstacktraining.png
+
+https://www.flickr.com/photos/xpantazis/8307719578/ : Digital Technology Expo 2007 : Chris Pantazis : digital_old.jpg
+
+https://www.flickr.com/photos/brand0con/4442329896/ : Fibre (HBA) connections to the core router. : Brandon O'Connor : fiber_con.jpg
+
+https://www.flickr.com/photos/opengridscheduler/37129388574/ : 	Google Cloud : Open Grid Scheduler / Grid Engine : google_cloud.jpg
+
+https://www.flickr.com/photos/128766079@N04/18896718021/ : Tuesday Keynote - 085 : Shari Mahrdt : openstack_power_planet.jpg
+
+https://www.flickr.com/photos/133825397@N08/35998805186/ : 	openstack : laboratorio linux : openstack.jpg
