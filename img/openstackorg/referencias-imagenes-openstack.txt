@@ -1,0 +1,11 @@
+url Descripción autor nombre imagen
+
+https://docs.openstack.org/install-guide/_images/openstack_kilo_conceptual_arch.png : Conceptual architecture  : OpenStack Contributors  : openstack_kilo_conceptual_arch.png
+
+https://docs.openstack.org/install-guide/_images/openstack-arch-kilo-logical-v1.png : Logical architecture  : OpenStack Contributors  : openstack-arch-kilo-logical-v1.png
+
+https://docs.openstack.org/install-guide/_images/networklayout.png : Network Layout Example : Openstack  : networklayout.png
+
+https://docs.openstack.org/sahara/queens/_images/sahara-architecture.svg : Sahara Architecture : OpenStack  : sahara-architecture.svg
+
+
